@@ -14,8 +14,8 @@ Free Bootstrap 5 HTML Template
 -----------------------------------------*/
 :root {
   --white-color:                  #ffffff;
-  --primary-color:                #f9c10b;
-  --secondary-color:              #dc3545;
+  --primary-color:                #02382a;
+  --secondary-color:              #ace5b6;
   --section-bg-color:             #f5f5f5;
   --dark-color:                   #000000;
   --p-color:                      #717275;
@@ -362,7 +362,7 @@ strong {
 }
 
 .site-header-icon {
-  color: var(--dark-color);
+  color: var(--white-color);
 }
 
 .site-header .social-icon {
