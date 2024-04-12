@@ -95,7 +95,7 @@ h6 {
 }
 
 p {
-  color: var(--p-color);
+  color: var(--primary-color);
   font-size: var(--p-font-size);
   font-weight: var(--font-weight-normal);
 }
@@ -231,6 +231,7 @@ strong {
   background: var(--primary-color);
   color: var(--white-color);
 }
+
 
 .custom-bg-primary {
   background: var(--primary-color);
@@ -472,8 +473,8 @@ strong {
 
 .carousel-control-next-icon, 
 .carousel-control-prev-icon {
-  width: 70px;
-  height: 70px;
+  width: 40px;
+  height: 40px;
 }
 
 
