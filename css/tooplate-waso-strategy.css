@@ -318,6 +318,10 @@ strong {
   padding-bottom: 15px;
 }
 
+.navbar-nav .nav-link.inactive {
+  color: var(--p-color);
+}
+
 .navbar-nav .nav-link.active, 
 .navbar-nav .nav-link:hover,
 .projects-detail-page .navbar-nav .nav-link.active:hover {
